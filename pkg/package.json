@@ -1,0 +1,12 @@
+{
+  "name": "cosmwebwasm",
+  "version": "0.1.0",
+  "files": [
+    "cosmwebwasm_bg.wasm",
+    "cosmwebwasm.js",
+    "cosmwebwasm.d.ts"
+  ],
+  "module": "cosmwebwasm.js",
+  "types": "cosmwebwasm.d.ts",
+  "sideEffects": false
+}
